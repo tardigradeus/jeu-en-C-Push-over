@@ -1,0 +1,5 @@
+joueur1 : a
+joueur2 : b
+tour : -1
+taille : 3
+1 -1 1 -1 1 -1 1 -1 1 
