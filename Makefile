@@ -1,4 +1,4 @@
-exe: exe.o partie1.o partie2.o partie3.o partie4.o
+install: exe.o partie1.o partie2.o partie3.o partie4.o
 	gcc -Wall exe.o partie1.o partie2.o partie3.o partie4.o -o exe
 
  exe.o: exe.c final.h

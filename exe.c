@@ -5,7 +5,8 @@
 
 int main()
 {
-	int x,y;
+	int x = 1;
+	int y;
 
 	color_printf(WHITE,BLACK,"BIENVENUE... \n");
 	delay(5);
